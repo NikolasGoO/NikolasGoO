@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Nikolas and I'm a Student developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Goiás, Brazil</b>. </p>
+<p> My name is Nikolas and I'm a development student, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Goiás, Brazil</b>. </p>
 
 ## About me
 
