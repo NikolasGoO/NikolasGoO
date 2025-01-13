@@ -23,7 +23,7 @@
   <img align="left" title="Flutter" alt="Flutter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Flutter_logo.png" />
 </a>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank">
   <img align="left" title="C#" alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Csharp_Logo.png" />
 </a>
 
