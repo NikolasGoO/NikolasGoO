@@ -19,12 +19,8 @@
   <img align="left" title="Dart" alt="Dart" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 </a>
 
-<a href="https://flutter.dev" target="_blank">
-  <img align="left" title="Flutter" alt="Flutter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
-</a>
-
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img align="left" title="C#" alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
+  <img align="left" title="C#" alt="C#" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
