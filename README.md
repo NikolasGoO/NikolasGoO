@@ -12,19 +12,19 @@
 ## I code with
 
 <a href="https://www.java.com" target="_blank">
-  <img align="left" title="Java" alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Java_logo.svg" />
+  <img align="left" title="Java" alt="Java" width="40px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 </a>
 
 <a href="https://dart.dev" target="_blank">
-  <img align="left" title="Dart" alt="Dart" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Dart-logo.png" />
+  <img align="left" title="Dart" alt="Dart" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 </a>
 
 <a href="https://flutter.dev" target="_blank">
-  <img align="left" title="Flutter" alt="Flutter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Flutter_logo.png" />
+  <img align="left" title="Flutter" alt="Flutter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank">
-  <img align="left" title="C#" alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Csharp_Logo.png" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img align="left" title="C#" alt="C#" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
