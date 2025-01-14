@@ -6,7 +6,7 @@
 
 - ✨ Studying Since 2021
 - 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and Java ☕︎
-- 🎯 Goals: Working outside Brazil and getting my first job in the development area  🚀
+- 🎯 Goals: Work outside Brazil and gett my first job in the development area  🚀
 - 🎲 And i play Valorant in my free time.
 
 ## I code with
